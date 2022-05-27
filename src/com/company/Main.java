@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+
       Apartment person1 = new Apartment("Father");
       Apartment person2 = new Apartment("Mother");
       Apartment person3 = new Apartment("Son");
@@ -49,5 +50,8 @@ public class Main {
 
 
 
-    }
+
+
+
+  }
 }
